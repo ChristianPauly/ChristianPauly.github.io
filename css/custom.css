@@ -81,10 +81,6 @@ h4 {
     padding: calc(2*var(--header-icon-padding));
 }
 
-.left_side a {
-    padding-left: 0px;
-}
-
 .header_button{
     padding: 0 !important;
 }
@@ -109,6 +105,9 @@ h4 {
     #header_main_nav{
         display: inline-block !important;
     }
+    .left_side a {
+    padding-left: 0px;
+}
 }
 
 /* Mobile mode */
