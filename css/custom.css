@@ -89,6 +89,7 @@ h4 {
     padding: var(--header-icon-padding);
     height: var(--header-height);
     margin-left: var(--header-icon-padding);
+    border-radius: 1.5rem;
 }
 
 #header_toggle_mobile{
