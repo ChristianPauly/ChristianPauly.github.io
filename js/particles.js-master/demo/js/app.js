@@ -1,32 +1,16 @@
-/* Set header-click-event */
-window.onload = function(e){
+/* -----------------------------------------------
+/* How to use? : Check the GitHub README
+/* ----------------------------------------------- */
 
-	$("#header_toggle_mobile").click(function () {
-		$("#header_main_nav").slideToggle();
-	});
-
-	$("#content, #header_main_nav a").click(function () {
-		$("#header_main_nav").slideUp();
-	});
-
-	$(document).ready(function() {
-		$(".fancybox").fancybox();
-	});
-
-	$('a[href^="#"]').on('click',function (e) {
-    e.preventDefault();
-
-    var target = this.hash;
-    var $target = $(target);
-
-    $('html, body').stop().animate({
-        'scrollTop': $target.offset().top
-    }, 900, 'swing', function () {
-        window.location.hash = target;
-    });
+/* To load a config file (particles.json) you need to host this demo (MAMP/WAMP/local)... */
+/*
+particlesJS.load('particles-js', 'particles.json', function() {
+  console.log('particles.js loaded - callback');
 });
+*/
 
-/* particlesJS.load(@dom-id, @path-json, @callback (optional)); */
+/* Otherwise just put the config content (json): */
+
 particlesJS('particles-js',
   
   {
@@ -39,7 +23,7 @@ particlesJS('particles-js',
         }
       },
       "color": {
-        "value": "#5625BA"
+        "value": "#ffffff"
       },
       "shape": {
         "type": "circle",
@@ -79,13 +63,13 @@ particlesJS('particles-js',
       "line_linked": {
         "enable": true,
         "distance": 150,
-        "color": "#5625BA",
+        "color": "#ffffff",
         "opacity": 0.4,
         "width": 1
       },
       "move": {
         "enable": true,
-        "speed": 3,
+        "speed": 6,
         "direction": "none",
         "random": false,
         "straight": false,
@@ -93,7 +77,7 @@ particlesJS('particles-js',
         "attract": {
           "enable": false,
           "rotateX": 600,
-          "rotateY": 300
+          "rotateY": 1200
         }
       }
     },
@@ -102,11 +86,11 @@ particlesJS('particles-js',
       "events": {
         "onhover": {
           "enable": true,
-          "mode": "bubble"
+          "mode": "repulse"
         },
         "onclick": {
           "enable": true,
-          "mode": "repulse"
+          "mode": "push"
         },
         "resize": true
       },
@@ -147,5 +131,3 @@ particlesJS('particles-js',
   }
 
 );
-
-}
