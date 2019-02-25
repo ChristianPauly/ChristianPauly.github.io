@@ -28,7 +28,7 @@ window.onload = function(e){
 
 /* particlesJS.load(@dom-id, @path-json, @callback (optional)); */
 particlesJS('particles-js',
-  
+
   {
     "particles": {
       "number": {

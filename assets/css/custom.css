@@ -10,12 +10,10 @@
 
 /* =============HEADER============== */
 .header{
-    border-bottom: 1px solid var(--border-color);
     height: var(--header-height);
     width: 80%;
     max-width: 960px;
     white-space: nowrap;
-    background: var(--header-background);
     top: 0px;
     left: 0;
     right: 0;
@@ -29,6 +27,8 @@
     text-align: center;
     padding: 0;
     z-index: 100;
+    border-bottom: 1px solid var(--border-color);
+    background: var(--header-background);
 }
 
 a {
