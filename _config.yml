@@ -1,0 +1,2 @@
+exclude: [ "README.md", "LICENSE"]
+assets: "https://christianpauly.github.io/assets"
