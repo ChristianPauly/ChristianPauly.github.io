@@ -5,7 +5,7 @@ title: Homescreen
 # Find a new homescreen for Ubuntu Touch
 Hey guys. I would like to share some thoughts about this topic in this blog post. This is only my opinion and I hope that this could help to find a good solution.
 
-### Let's assume that "home" is this:
+### As UniSuperBox has written, we assume that "home" is this:
 + It is used to start other interactions with the environment (applications, for example)
 + It is "returnable," a user should always know how to get to it. Now that operating environments are used for multitasking, this shouldn't be by destroying all running activities.
 + It is "safe," a user should always know what to do once they get there
