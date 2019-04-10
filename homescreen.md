@@ -11,7 +11,7 @@ Hey guys. I would like to share some thoughts about this topic in this blog post
 + It is "safe," a user should always know what to do once they get there
 + It should be a little bit customizable (We are not Gnome 3 :P)
 
-### What is **home** on other systems? I have done some screenshots:
+### What is **home** on other systems?
 
 #### Android
 
