@@ -16,25 +16,34 @@ Hey, I would like to collect some knowledge in this post.
 #### Android
 
 ![Screenshot_2019-04-10-07-31-49.png](/assets/images/android.png) 
+
 A customizable *start*screen and non-customizable app drawer.
 
 #### iOS
+
 ![ima_d939465.png](/assets/images/ios.png) 
+
 Horizontal scrollable pages where all apps are present. Customizable with app folders.
 
 
 #### Firefox OS
+
 ![737a843c39be00cad22d7a68939f865b.png](/assets/images/firefoxos.png) 
+
 Vertical scrollable app drawer with possible appfolder customizations. (Still alife on kaiOS)
 
 #### Sailfish OS
+
 ![serveimage.jpeg](/assets/images/sailfishos.png) 
+
 Vertical scrollable app drawer.
 
 #### Windows Phone
+
 Similar to android with strange tiles...
 
 #### Conclusion
+
 + On all other mobile operating systems are "Homescreens".
 + From the homescreen you start your apps.
 + Sometimes homescreens are divided into a customizable widget part with the most apps and a non-customizable app drawer.
