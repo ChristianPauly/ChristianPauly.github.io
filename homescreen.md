@@ -34,7 +34,7 @@ Vertical scrollable app drawer with possible appfolder customizations. (Still al
 
 #### Sailfish OS
 
-![serveimage.jpeg](/assets/images/sailfishos.png) 
+![serveimage.jpeg](/assets/images/sailfishos.jpeg) 
 
 Vertical scrollable app drawer.
 
@@ -59,11 +59,18 @@ Similar to android with strange tiles...
 
 This leads to three different solution:
 
-#### Use the unity 8 app drawer in the same way Gnome 3 does
+#### 1. Use the unity 8 app drawer in the same way Gnome 3 does
 
 This would mean:
-+ 
++ The launch animation of the app drawer would change. It will not slide in from the left but just appear. The current apps will just disappear without any 3D effects.
++ The app drawer will autostart when there are no apps open OR:
++ The homescreen gets some customizable features like widgets or app shortcuts
 
-#### Use a always *below* homescreen like on Endless OS
+#### 2. Use a always *below* homescreen like on Endless OS
 
-#### Switch the 3D position of the homescreen like on Windows 10
++ Same way like using the sprint app from Brian.
+
+#### 3. Switch the 3D position of the homescreen like on Windows 10
+
++ On desktop mode everything stays the same like it is at the moment
++ On staged mode the app drawer will be always visible and you can't hide it. Tab on the circle of friends button will just minimize or hide all apps
