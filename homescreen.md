@@ -57,11 +57,11 @@ On **Windows 10** there is a desktop and a tablet mode. On the desktop mode the 
 
 On **Gnome 3** the app drawer is hiding all apps and only showing the wallpaper in the background. This is interesting because you can not say weither the app drawer is *over* or *below* the open windows.
 
-![serveimage.jpeg](/assets/images/gnome3.jpeg) 
+![serveimage.jpeg](/assets/images/gnome3.png) 
 
 **Endless OS** is a desktop system which is using the mobile solution for the start menu. The *homescreen* of Endless OS is always *below* the open windows and the *minimize all windows* button is in fact the start menu button.
 
-![serveimage.jpeg](/assets/images/endlessos.jpeg) 
+![serveimage.jpeg](/assets/images/endlessos.png) 
 
 This leads to three different solution:
 
