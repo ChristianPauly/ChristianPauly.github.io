@@ -3,7 +3,7 @@ layout: default
 title: Homescreen
 ---
 # Find a new homescreen for Ubuntu Touch
-Hey guys. I would like to share some thoughts about this topic in this blog post. This is only my opinion but maybe this can help us to find a good solution.
+Hey guys. I would like to share some thoughts about this topic in this blog post. This is only my opinion and I hope that this could help to find a good solution.
 
 ### Let's assume that "home" is this:
 + It is used to start other interactions with the environment (applications, for example)
