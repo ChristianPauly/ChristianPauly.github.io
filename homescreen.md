@@ -5,13 +5,13 @@ title: Homescreen
 # Homescreen for Ubuntu Touch
 Hey, I would like to collect some knowledge in this post.
 
-## Let's assume that "home" is this:
+### Let's assume that "home" is this:
 + It is used to start other interactions with the environment (applications, for example)
 + It is "returnable," a user should always know how to get to it. Now that operating environments are used for multitasking, this shouldn't be by destroying all running activities.
 + It is "safe," a user should always know what to do once they get there
 + It should be a little bit customizable (We are not Gnome 3 :P)
 
-## What is **home** on other systems? I have done some screenshots:
+### What is **home** on other systems? I have done some screenshots:
 
 #### Android
 
