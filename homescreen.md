@@ -51,7 +51,7 @@ Similar to android with strange tiles...
 + Home feels like something that is *below* all open apps. (The app drawer of Unity 8 would be *over* the apps) On the most desktop environments this is different. When you open the start menu it would be *over* all visible apps.
 + Homescreen is customizable.
 
-#### How are systems solving this?
+#### How are other systems solving this?
 
 On **Windows 10** there is a desktop and a tablet mode. On the desktop mode the start menu will be *over* the other apps. On tablet mode that start menu will always be visible so it feels like it is *below* the apps.
 
