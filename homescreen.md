@@ -3,7 +3,7 @@ layout: default
 title: Homescreen
 ---
 # Homescreen for Ubuntu Touch
-Hey, I would like to collect some knowledge in this post.
+Hey guys. I would like to share some thoughts about this topic in this blog post. This is only my opinion but maybe this can help us to find a good solution.
 
 ### Let's assume that "home" is this:
 + It is used to start other interactions with the environment (applications, for example)
@@ -51,3 +51,19 @@ Similar to android with strange tiles...
 + Home feels like something that is *below* all open apps. (The app drawer of Unity 8 would be *over* the apps) On the most desktop environments this is different. When you open the start menu it would be *over* all visible apps.
 + Homescreen is customizable.
 
+#### How are systems solving this?
+
++ On Windows 10 there is a desktop and a tablet mode. On the desktop mode the start menu will be *over* the other apps. On tablet mode that start menu will always be visible so it feels like it is *below* the apps.
++ On Gnome 3 the app drawer is hiding all apps and only showing the wallpaper in the background. This is interesting because you can not say weither the app drawer is *over* or *below* the open windows.
++ Endless OS is a desktop system which is using the mobile solution for the start menu. The *homescreen* of Endless OS is always *below* the open windows and the *minimize all windows* button is in fact the start menu button.
+
+This leads to three different solution:
+
+#### Use the unity 8 app drawer in the same way Gnome 3 does
+
+This would mean:
++ 
+
+#### Use a always *below* homescreen like on Endless OS
+
+#### Switch the 3D position of the homescreen like on Windows 10
