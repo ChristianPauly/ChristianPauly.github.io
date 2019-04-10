@@ -53,13 +53,13 @@ Similar to android with strange tiles...
 
 #### How are systems solving this?
 
-+ On Windows 10 there is a desktop and a tablet mode. On the desktop mode the start menu will be *over* the other apps. On tablet mode that start menu will always be visible so it feels like it is *below* the apps.
+On **Windows 10** there is a desktop and a tablet mode. On the desktop mode the start menu will be *over* the other apps. On tablet mode that start menu will always be visible so it feels like it is *below* the apps.
 
-+ On Gnome 3 the app drawer is hiding all apps and only showing the wallpaper in the background. This is interesting because you can not say weither the app drawer is *over* or *below* the open windows.
+On **Gnome 3** the app drawer is hiding all apps and only showing the wallpaper in the background. This is interesting because you can not say weither the app drawer is *over* or *below* the open windows.
 
 ![serveimage.jpeg](/assets/images/gnome3.jpeg) 
 
-+ Endless OS is a desktop system which is using the mobile solution for the start menu. The *homescreen* of Endless OS is always *below* the open windows and the *minimize all windows* button is in fact the start menu button.
+**Endless OS** is a desktop system which is using the mobile solution for the start menu. The *homescreen* of Endless OS is always *below* the open windows and the *minimize all windows* button is in fact the start menu button.
 
 ![serveimage.jpeg](/assets/images/endlessos.jpeg) 
 
