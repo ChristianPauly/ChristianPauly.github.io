@@ -5,7 +5,7 @@ Riot ist ein toller Messenger, der viele Funktionen bietet und besonders sicher 
 Riot ist dezentral. Wie bei Email kannst du dir einen Anbieter aussuchen, bei dem du ein Konto für Riot verwendest.
 
 
-### Möglichkeit 1: Mit einem bestehenden Konto anmelden
+## Möglichkeit 1: Mit einem bestehenden Konto anmelden
 Nehmen wir an du hast ein Konto auf z.B. https://chat.tchncs.de und du möchtest dich auf deinem Smartphone mit diesem Konto anmelden.
 
 1. Wenn du Riot startest gibst du zuerst deinen Nutzernamen ein. Alternativ kannst du auch deine E-Mail-Adresse oder deine Telefonnummer eingeben, sofern du diese mit deinem Konto verknüpft hast.
@@ -20,7 +20,7 @@ Nehmen wir an du hast ein Konto auf z.B. https://chat.tchncs.de und du möchtest
 
 4. Tippe auf "Anmelden"
 
-### Möglichkeit 2: Ein neues Konto erstellen
+## Möglichkeit 2: Ein neues Konto erstellen
 
 1. Öffne Riot und tippe unten auf den Button "Konto erstellen".
 
