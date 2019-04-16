@@ -4,6 +4,7 @@
 
 Riot ist ein toller Messenger, der viele Funktionen bietet und der besonders sicher ist. Du kannst ihn für Android oder iOS herunterladen oder direkt im Browser verwenden unter [riot.im](https://riot.im/). Riot ist dezentral. Wie bei Email kannst du dir einen Anbieter aussuchen, bei dem du ein Konto für Riot verwendest.
 
+---
 
 ### Möglichkeit 1: Mit einem bestehenden Konto anmelden
 Nehmen wir an du hast ein Konto auf z.B. "https://chat.tchncs.de" und du möchtest dich auf deinem Smartphone mit diesem Konto anmelden.
@@ -23,6 +24,8 @@ Standardmäßig ist der Anbieter "https://matrix.org" vorausgewählt. Wenn du ni
 
 ##### Schritt 4:
 Tippe auf "Anmelden".
+
+---
 
 ### Möglichkeit 2: Ein neues Konto erstellen
 
