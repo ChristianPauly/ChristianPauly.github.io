@@ -10,10 +10,10 @@ Riot ist dezentral. Wie bei Email kannst du dir einen Anbieter aussuchen, bei de
 ### Möglichkeit 1: Mit einem bestehenden Konto anmelden
 Nehmen wir an du hast ein Konto auf z.B. "https://chat.tchncs.de" und du möchtest dich auf deinem Smartphone mit diesem Konto anmelden.
 
-##### Schritt 1:
+#### Schritt 1:
 Wenn du Riot startest gibst du zuerst deinen Nutzernamen ein. Alternativ kannst du auch deine E-Mail-Adresse oder deine Telefonnummer eingeben, sofern du diese mit deinem Konto verknüpft hast. 
 
-[alt text](/assets/images/riottutorial1.png)
+![alt text](/assets/images/riottutorial1.png)
 
 ##### Schritt 2:
 Als nächstes gibst du im Passwort-Feld dein Passwort ein. Solltest du das vergessen haben, kannst du, sofern du deinem Konto eine E-Mail-Adresse hinzugefügt hast, das Passwort zurücksetzen über die "Passwort vergessen"-Funktion. 
