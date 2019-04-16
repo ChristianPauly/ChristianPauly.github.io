@@ -2,9 +2,7 @@
 
 ![alt text](https://about.riot.im/images/home-communication.png)
 
-Riot ist ein toller Messenger, der viele Funktionen bietet und der besonders sicher ist. Du kannst ihn für Android oder iOS herunterladen oder direkt im Browser verwenden unter [riot.im](https://riot.im/).
-
-Riot ist dezentral. Wie bei Email kannst du dir einen Anbieter aussuchen, bei dem du ein Konto für Riot verwendest.
+Riot ist ein toller Messenger, der viele Funktionen bietet und der besonders sicher ist. Du kannst ihn für Android oder iOS herunterladen oder direkt im Browser verwenden unter [riot.im](https://riot.im/). Riot ist dezentral. Wie bei Email kannst du dir einen Anbieter aussuchen, bei dem du ein Konto für Riot verwendest.
 
 
 ### Möglichkeit 1: Mit einem bestehenden Konto anmelden
