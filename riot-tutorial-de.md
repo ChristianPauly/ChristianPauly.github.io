@@ -1,6 +1,6 @@
-![alt text](https://about.riot.im/images/home-communication.png)
-
 # Wie melde ich mich bei Riot an?
+
+![alt text](https://about.riot.im/images/home-communication.png)
 
 Riot ist ein toller Messenger, der viele Funktionen bietet und besonders sicher ist. Du kannst ihn für Android oder iOS herunterladen oder direkt im Browser verwenden unter (riot.im)[https://riot.im/].
 
