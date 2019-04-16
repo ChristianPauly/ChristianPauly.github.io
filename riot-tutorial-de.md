@@ -1,12 +1,14 @@
+![alt text](https://about.riot.im/images/home-communication.png)
+
 # Wie melde ich mich bei Riot an?
 
-Riot ist ein toller Messenger, der viele Funktionen bietet und besonders sicher ist. Du kannst ihn für Android oder iOS herunterladen oder direkt im Browser verwenden unter [https://riot.im/ riot.im].
+Riot ist ein toller Messenger, der viele Funktionen bietet und besonders sicher ist. Du kannst ihn für Android oder iOS herunterladen oder direkt im Browser verwenden unter (riot.im)[https://riot.im/].
 
 Riot ist dezentral. Wie bei Email kannst du dir einen Anbieter aussuchen, bei dem du ein Konto für Riot verwendest.
 
 
 ### Möglichkeit 1: Mit einem bestehenden Konto anmelden
-Nehmen wir an du hast ein Konto auf z.B. https://chat.tchncs.de und du möchtest dich auf deinem Smartphone mit diesem Konto anmelden.
+Nehmen wir an du hast ein Konto auf z.B. "https://chat.tchncs.de" und du möchtest dich auf deinem Smartphone mit diesem Konto anmelden.
 
 1. Wenn du Riot startest gibst du zuerst deinen Nutzernamen ein. Alternativ kannst du auch deine E-Mail-Adresse oder deine Telefonnummer eingeben, sofern du diese mit deinem Konto verknüpft hast.
 
