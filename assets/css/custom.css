@@ -165,6 +165,10 @@ h4 {
     max-width: 100%;   
 }
 
+#pictogram {
+    max-width: 30%;
+}
+
 #banner {
     width: 100%;
     max-width: 580px;
